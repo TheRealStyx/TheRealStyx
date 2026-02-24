@@ -118,8 +118,8 @@ Desenvolvimento de Sistemas Web    ███████████████
 Automação de Processos (N8N)       ████████████████████  Avançado
 Gestão Financeira & ERP            ████████████████████  Avançado
 Integração de APIs                 ████████████████████  Avançado
-Soluções de IA                     ████████████░░░░░░░░  Intermediário-Avançado
-Backend Python (Django/FastAPI)    ████████████░░░░░░░░  Intermediário-Avançado
+Soluções de IA                     ████████████████████  Avançado
+Backend Python (Django/FastAPI)    ████████████████████  Avançado
 ```
 
 ---
