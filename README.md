@@ -89,27 +89,27 @@ Sistema ERP completo desenvolvido do zero para o setor de construção civil. Co
 **Stack:** Next.js · Python · PostgreSQL · Docker  
 **Status:** ✅ Em produção
 
----
+### ⚖️ GovCompras — Plataforma Inteligente de Licitações
+> *Repositório privado — disponível para demonstração mediante contato*
 
-### ⚡ SaaS Platform
-> *Disponível para visualização — entre em contato*
+Plataforma SaaS para gestão completa de processos licitatórios: monitoramento 
+de editais, controle de prazos, lances automatizados e pesquisa de concorrentes 
+com histórico de valores praticados.
 
-Plataforma SaaS construída do zero com autenticação, gestão de usuários, planos de assinatura e painel administrativo completo.
-
-**Stack:** Next.js · FastAPI · PostgreSQL  
+**Stack:** React · Python · SQL  
 **Status:** ✅ Operante
 
----
 
-### 🤖 AILO — Soluções de Inteligência Artificial
-> [`Ver repositório`](https://github.com/TheRealStyx)
+### 🤖 AILO Inteligência Artificial
+> *Empreendimento próprio — em operação*
 
-Automações empresariais com IA: assistentes virtuais, fluxos inteligentes com N8N, integração de sistemas e redução de processos manuais para empresas.
+Empresa de soluções de IA para automação de processos empresariais. 
+Assistentes virtuais, fluxos inteligentes com N8N e integrações 
+personalizadas para reduzir operações manuais em empresas.
 
 **Stack:** Python · N8N · OpenAI API · Google APIs  
-**Status:** 🚀 Em desenvolvimento contínuo
+**Status:** 🚀 Em operação
 
----
 
 ## 📊 Domínios de Expertise
 
