@@ -97,7 +97,7 @@ de editais, controle de prazos, lances automatizados e pesquisa de concorrentes
 com histórico de valores praticados.
 
 **Stack:** React · Python · SQL  
-**Status:** ✅ Em produção
+**Status:** ✅ Operante
 
 
 ### 🤖 AILO Inteligência Artificial
