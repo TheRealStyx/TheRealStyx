@@ -97,7 +97,7 @@ de editais, controle de prazos, lances automatizados e pesquisa de concorrentes
 com histórico de valores praticados.
 
 **Stack:** React · Python · SQL  
-**Status:** ✅ Operante
+**Status:** ✅ Em produção
 
 
 ### 🤖 AILO Inteligência Artificial
@@ -108,7 +108,7 @@ Assistentes virtuais, fluxos inteligentes com N8N e integrações
 personalizadas para reduzir operações manuais em empresas.
 
 **Stack:** Python · N8N · OpenAI API · Google APIs  
-**Status:** 🚀 Em operação
+**Status:** ✅ Em produção
 
 
 ## 📊 Domínios de Expertise
