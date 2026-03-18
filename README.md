@@ -115,7 +115,7 @@ personalizadas para reduzir operações manuais em empresas.
 
 ```
 Desenvolvimento de Sistemas Web    ████████████████████  Avançado
-Automação de Processos (N8N)       ████████████████████  Avançado
+Automação de Processos             ████████████████████  Avançado
 Gestão Financeira & ERP            ████████████████████  Avançado
 Integração de APIs                 ████████████████████  Avançado
 Soluções de IA                     ████████████████████  Avançado
