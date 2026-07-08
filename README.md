@@ -121,16 +121,14 @@ personalizadas para reduzir operações manuais em empresas.
 
 ## 📊 Domínios de Expertise
 
-\`\`\`
-Desenvolvimento de Sistemas Web    ████████████████████  Avançado
-Automação de Processos             ████████████████████  Avançado
-Gestão Financeira & ERP            ████████████████████  Avançado
-Integração de APIs                 ████████████████████  Avançado
-Soluções de IA                     ████████████████████  Avançado
-Backend Python (Django/FastAPI)    ████████████████████  Avançado
-\`\`\`
-
----
+| Domínio | Nível |
+|---|---|
+| Desenvolvimento de Sistemas Web   | ████████████████████ Avançado |
+| Automação de Processos            | ████████████████████ Avançado |
+| Gestão Financeira & ERP           | ████████████████████ Avançado |
+| Integração de APIs                | ████████████████████ Avançado |
+| Soluções de IA                    | ████████████████████ Avançado |
+| Backend Python (Django/FastAPI)   | ████████████████████ Avançado |
 
 ## 💼 Experiência Profissional | Professional Background
 
