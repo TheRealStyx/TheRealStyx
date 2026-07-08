@@ -81,6 +81,14 @@ My edge: I understand finance, auditing, and operational processes before writin
 
 ## 🚀 Projetos em Destaque | Featured Projects
 
+### 🎨 Vila Artesan — Marketplace de Artesanato
+> *Repositório privado — disponível para demonstração mediante contato*
+
+Marketplace que conecta artesãos brasileiros a compradores em busca de peças autênticas e feitas à mão. Vitrine de produtos, perfis de artesãos, fluxo de compra completo e painel de gestão para vendedores.
+
+**Stack:** Next.js · React · Python · SQL  
+**Status:** ✅ Em produção
+
 ### 🏗️ ERP — Gestão de Obras e Construção Civil
 > *Repositório privado — disponível para demonstração mediante contato*
 
@@ -113,14 +121,14 @@ personalizadas para reduzir operações manuais em empresas.
 
 ## 📊 Domínios de Expertise
 
-```
+\`\`\`
 Desenvolvimento de Sistemas Web    ████████████████████  Avançado
 Automação de Processos             ████████████████████  Avançado
 Gestão Financeira & ERP            ████████████████████  Avançado
 Integração de APIs                 ████████████████████  Avançado
 Soluções de IA                     ████████████████████  Avançado
 Backend Python (Django/FastAPI)    ████████████████████  Avançado
-```
+\`\`\`
 
 ---
 
